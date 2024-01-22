@@ -22,6 +22,11 @@ app.use(express.static("public"));
 app.get("/notes", (req, res) =>
   res.sendFile(path.join(__dirname, "./public/notes.html"))
 );
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "./public/index.html"));
+});
+
 // When a GET request is made to "/api/notes", this function responds by sending the file located at "./db/db.json" in your project directory. This file is sent as a response to the client who made the request.
 app.get("/api/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "./db/db.json"), (e) => {
