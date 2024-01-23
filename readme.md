@@ -6,7 +6,7 @@
 The purpose of this project is to develop my skills with Express.JS, routing requests and Heroku. This app was creatred in order for the user to take and keep notes.
 
 ## Deployed Application URL
-For a limited time only act now! https://ancient-mountain-92079-5104eea5ea54.herokuapp.com/notes?
+For a limited time only act now! https://ancient-mountain-92079-5104eea5ea54.herokuapp.com/notes
 
 ## Screenshot
 (<img width="1680" alt="Screenshot 2024-01-23 at 10 43 48 AM" src="https://github.com/CDarts48/Note-Taker/assets/137344214/aa1f0fd5-d0ee-4525-94db-b0533618867f">
