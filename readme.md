@@ -28,8 +28,8 @@ For a limited time only act now! https://ancient-mountain-92079-5104eea5ea54.her
 ## How to Use This Application
   JS node Heroku Html CSS 
 
-  ## Contributors
-  
+## Contributors
+  This project was assisted by my teacher and TA as well as Github Copilot and Ask BCS. 
   
 ## Testing
   When the user clicks on the URL they are brought to an index.html page when th euser clicks on hte button they are moved to a notes.html here there is functionality using express routs and uniqid to allow the user to take and save notes.
