@@ -8,7 +8,7 @@ var uniqid = require("uniqid");
 
 // Create an instance of express
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // Express Middleware allowing to add arrays and json to url
 app.use(express.urlencoded({ extended: true }));
